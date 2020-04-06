@@ -3,6 +3,7 @@
 .DS_Store
 custom/*
 !custom/example.bash
+!custom/sshuttle.bash
 .rvmrc
 aliases/custom.aliases.bash
 completion/custom.completion.bash
